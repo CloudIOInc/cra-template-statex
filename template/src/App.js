@@ -7,7 +7,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <p>This project is running with StateX</p>
+        <p>This project is running with CloudIO StateX</p>
         <div className="counter">
           <button
             className="counter-btn"
